@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.sesaestudios.formacionsesaestudios"
+        id        = "net.moodlemoot.mootes14"
         versionCode = "001"
         version   = "1.0">
     <name>sesaestudios formación</name>
@@ -90,7 +90,7 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" source="npm"/>
     <gap:plugin name="net.tunts.webintent" source="npm"/>
     <gap:plugin name="nl.x-services.plugins.launchmyapp" source="npm">
-        <param name="URL_SCHEME" value="moodlemobile" source="npm"/>
+        <param name="URL_SCHEME" value="mootes14" source="npm"/>
     </gap:plugin>
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" source="npm"/>
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5" source="npm"/>
