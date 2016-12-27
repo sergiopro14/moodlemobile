@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.sesaestudios.formacionsesaestudios"
         versionCode = "391"
         version   = "1.0">
     <name>sesaestudios formación</name>
@@ -11,8 +11,8 @@
         La aplicación de formación de sesaestudios
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://moodle.com" email="info@sesaestudios.com">
+        Sergio Sánchez
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
