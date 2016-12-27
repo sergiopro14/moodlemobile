@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<plugin name="cordova-plugin-console" spec="~5.0.0" />
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
@@ -86,7 +87,6 @@
     <gap:plugin name="org.apache.cordova.network-information" source="npm"/>
     <gap:plugin name="org.apache.cordova.splashscreen" source="npm"/>
     <gap:plugin name="com.phonegap.plugin.statusbar"/>
-    <plugin name="org.apache.cordova.statusbar" spec="0.1.4" source="pgb" />
 
     <gap:plugin name="com.phonegap.plugins.pushplugin" source="npm"/>
     <gap:plugin name="net.tunts.webintent" source="npm"/>
