@@ -85,7 +85,7 @@
     <gap:plugin name="org.apache.cordova.inappbrowser" source="npm"/>
     <gap:plugin name="org.apache.cordova.network-information" source="npm"/>
     <gap:plugin name="org.apache.cordova.splashscreen" source="npm"/>
-    <gap:plugin name="com.phonegap.plugin.statusbar"source="pgb"/>
+    <gap:plugin name="com.phonegap.plugin.statusbar"/>
 
     <gap:plugin name="com.phonegap.plugins.pushplugin" source="npm"/>
     <gap:plugin name="net.tunts.webintent" source="npm"/>
