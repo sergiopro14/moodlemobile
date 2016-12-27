@@ -1,7 +1,7 @@
-Moodle Mobile
+Formación sesaestudios
 ============
 
-This is the primary repository of source code for the official Moodle Mobile app.
+Esta es la app de formacion sesaestudios.
 
 User documentation: http://docs.moodle.org/en/Mobile_app
 
