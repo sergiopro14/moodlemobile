@@ -89,7 +89,7 @@
 
     <gap:plugin name="com.phonegap.plugins.pushplugin" source="npm"/>
     <gap:plugin name="net.tunts.webintent" source="npm"/>
-    <gap:plugin name="nl.x-services.plugins.launchmyapp">
+    <gap:plugin name="nl.x-services.plugins.launchmyapp" source="npm">
         <param name="URL_SCHEME" value="moodlemobile" source="npm"/>
     </gap:plugin>
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
